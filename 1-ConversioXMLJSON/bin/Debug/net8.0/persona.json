@@ -1,0 +1,11 @@
+{
+  "Id": 967,
+  "Nom": "Marta",
+  "Edat": 23,
+  "Mascotes": [
+    {
+      "Nom": "Toby",
+      "Tipus": "Conill"
+    }
+  ]
+}

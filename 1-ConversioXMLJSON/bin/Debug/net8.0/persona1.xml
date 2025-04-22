@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Persona xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Id="791">
+  <Nom>Carla</Nom>
+  <Edat>29</Edat>
+  <Mascotes>
+    <Mascota Nom="Max">
+      <Tipus>Gat</Tipus>
+    </Mascota>
+    <Mascota Nom="Kira">
+      <Tipus>Hàmster</Tipus>
+    </Mascota>
+    <Mascota Nom="Luna">
+      <Tipus>Gos</Tipus>
+    </Mascota>
+  </Mascotes>
+</Persona>
